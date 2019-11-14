@@ -1,0 +1,3 @@
+*JavaScript Object Notation Application Programming Interface*
+
+Up until this point, while studying at General Assembly we have used pre-made API's to gather and present interesting and/or useful data.  During this project we learned how to create our own API with Create, Read, Update, and Delete functionality.  I used the application Postman to operate the CRUD features of this application.  This API offers up data about popular movies. 
