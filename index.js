@@ -3,7 +3,7 @@ const app = express();
 const parser = require("body-parser")
 
 app.use(parser.json());
-app.use(require("./routes/index.js"))
+app.use(require("./lib/routes/index.js"))
 
 app.set("port", process.env.PORT || 8080);
 
